@@ -16,7 +16,7 @@ def main():
     print("VERIFICADOR DE PALÍNDROMOS")
     print("=" * 60)
     print("Este programa verifica si una frase es palíndroma.")
-    print("Escribe 'salir' para terminar el programa.\n")
+    print("Escribe 'salir' o 'exit' para terminar el programa.\n")
     
     while True:
         frase = input("Introduce una frase: ").strip()
